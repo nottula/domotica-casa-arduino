@@ -1,0 +1,5 @@
+{
+    "board": "arduino:avr:megaADK",
+    "sketch": "domotica_casa.ino",
+    "port": "COM6"
+}
